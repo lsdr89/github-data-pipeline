@@ -221,9 +221,3 @@ Planejo evoluir este projeto adicionando:
 * Integração com AWS
 
 ---
-
-## Autor
-
-Leandro Soares
-
-Profissional com experiência em Infraestrutura de TI em transição para Engenharia de Dados, desenvolvendo projetos práticos para consolidação dos conhecimentos em Python, SQL, ETL e plataformas modernas de dados.
