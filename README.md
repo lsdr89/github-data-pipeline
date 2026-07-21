@@ -183,7 +183,8 @@ Acessar o PostgreSQL:
 docker exec -it <container_id> psql -U admin githubdb
 ```
 
-<img width="589" height="153" alt="python1" src="https://github.com/user-attachments/assets/b45d0a17-e734-4a41-8da4-33377fa57e31" />
+
+
 
 
 Consultar os registros inseridos:
@@ -192,10 +193,8 @@ Consultar os registros inseridos:
 SELECT *
 FROM repositories;
 
-<img width="1211" height="422" alt="postgresql1" src="https://github.com/user-attachments/assets/92b370b7-9f2f-468d-802e-9923285a81fb" />
-
-
 ```
+<img width="1211" height="422" alt="postgresql1" src="https://github.com/user-attachments/assets/78c6e56a-4a43-42ac-8dc6-93a8c29db43e" />
 
 ---
 
